@@ -1,3 +1,12 @@
+/**
+
+GENERATE CANVAS PING & SYSTEM MONITORING
+CREATOR: IZUKA DEV (XRIZAL)
+
+**/
+
+
+
 case 'ping': {
     
     function roundRect(ctx, x, y, width, height, radius) {
